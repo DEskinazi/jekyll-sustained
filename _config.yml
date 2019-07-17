@@ -4,11 +4,11 @@ author: Debra Eskinazi Stockdale
 description: Personal blog and resume
 url: https://myurl.com/
 avatar: debra-profile.png
-resume: "/static/sample-resume.pdf"
-email: yourname@email.com
-github: username
-twitter: username
-linkedin: username
+resume: "/static/DebraEskinaziStockdaleResume.md"
+email: debra.eskinazi@gmail.com
+github: Deskinazi
+twitter: Debeskinazi
+linkedin: debraeskinazi
 stackoverflow: 1234567/username
 disqus: username
 google_analytics: UA-12345678-1
