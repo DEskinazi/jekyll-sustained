@@ -98,10 +98,10 @@ body {
   margin: 20px 0;
 }
 .container a {
-  color: #27A822;
+  color: #0e8285;
 }
 .container a:hover {
-  color: #267723;
+  color: #145557;
 }
 .img-responsive {
  display: block;
@@ -119,10 +119,10 @@ body {
   font-size: 1.25em;
 }
 .panel-default h4 a, h5 a {
-  color: #27A822;
+  color: #0e8285;
 }
 .panel-default h4 a:hover, h5 a:hover {
-  color: #267723;
+  color: #145557;
 }
 .panel{
   border-style: none;
