@@ -1,6 +1,6 @@
 # jekyll-sustained
 
-I'm working on a small [project](https://debra-eskinazi.netlify.com/) using simple starter repository built with [Jekyll](https://jekyllrb.com) static site generator, adapted from the [Sustain](http://www.github.com/jekyller/sustain) theme.
+I'm working on a small [project](https://debra-eskinazi.netlify.com/) using a simple starter repository built with [Jekyll](https://jekyllrb.com) static site generator, adapted from the [Sustain](http://www.github.com/jekyller/sustain) theme, and powered by Netlify.
 
 ## Demo
 
