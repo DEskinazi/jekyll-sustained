@@ -195,7 +195,7 @@ https://github.com/11ty/eleventy-plugin-syntaxhighlight/blob/v2.0.0/README.md#sa
   color: inherit; /* override del, ins, mark defaults */
 }
 
-.avatar {
+.avatar img {
 	width: 250px;
 }
 
