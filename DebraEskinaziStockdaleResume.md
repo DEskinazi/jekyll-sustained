@@ -1,12 +1,13 @@
-# **DEBRA ESKINAZI STOCKDALE** #
+# DEBRA ESKINAZI STOCKDALE
 San Francisco Bay Area | debra.eskinazi@gmail.com
+
 linkedin.com/in/debraeskinazi |  github.com/DEskinazi
 
-### **EXPERIENCE SUMMARY**
+### EXPERIENCE SUMMARY
 
 Writer with more than 8 years of experience including authoring technical documentation, job aids, and FAQs. Working knowledge of APIs. Self-taught in open-source technology. Skilled in copywriting, research, and elicitation. Fearless about installing, using, and testing complex products.
 
-### **SKILLS**
+### SKILLS
 * Experienced with project communications, UI copywriting, end-user documentation, and marketing collateral authoring
 * Solid writing and editing skills, flexes to any style guide 
 * Clear and concise communication that enhances users’ experience 
@@ -16,20 +17,12 @@ Writer with more than 8 years of experience including authoring technical docume
 * Expert interviewer and researcher
 * Adept and learning new technologies
 
-### **SKILLS**
-||  |
-| ------------- | ------------- |
-| Experienced with project communications, UI copywriting, end-user documentation, and marketing collateral authoring  | Solid writing and editing skills, flexes to any style guide  |
-| Clear and concise communication that enhances users’ experience  | Collaborates with software engineers, designers, researchers, and product managers in a fast-paced environment   |
-| Organized and focused, with a professional yet easygoing demeanor | Performs well with cross-functional teams and competing priorities |
-|Expert interviewer and researcher |  Adept and learning new technologies  |
-
-### **TECHNICAL TOOLS**
+### TECHNICAL TOOLS
 Proficient with MS Office Suite, Mac OSX, Adobe Pro, G Suite, HTML, CSS, LMS, SABA, CA Service Desk, SharePoint, BLOX CMS, CrownPeak, WordPress, SnagIt, Trello, Slack, KanbanFlow, readme.io, Asana 
 
 Familiar with JavaScript, JSON, REST, Oxygen, DITA XML and single-sourced publishing, Markdown, Python, Atlassian’s Jira and Confluence as well as development tools including Git, Visual Studio, and Sublime Text. 
 
-### **EXPERIENCE**
+### EXPERIENCE
 _**Technical Writer/Editor**, Synergistech Communications (Contract) Remote, CA, 02/19 – Present_
 
 Responsible for editing various materials for confidential clients. Work includes editing getting started guides, developer documentation, migrating release notes. Software and Hardware. Tools: Git-flavored Markdown and Readme.io.
@@ -68,7 +61,7 @@ Primary and secondary research and writing for clients in various industries fro
 * Marketing, copywriting, case studies, consulting, and editing for clients.
 * Familiarity with MLA, APA, AP, and Chicago style guides. 
 
-### **EDUCATION**
+### EDUCATION
 _Bachelor of Arts, Political Science, San Jose State University, San Jose, California 
 2007_
 
