@@ -4,7 +4,7 @@ author: Debra Eskinazi Stockdale
 description: Personal blog and resume
 url: https://myurl.com/
 avatar: debra-profile.png
-resume: "/static/DebraEskinaziStockdaleResume.md"
+resume: "https://github.com/DEskinazi/jekyll-sustained/blob/master/DebraEskinaziStockdaleResume.md"
 email: debra.eskinazi@gmail.com
 github: DEskinazi
 twitter: debeskinazi
