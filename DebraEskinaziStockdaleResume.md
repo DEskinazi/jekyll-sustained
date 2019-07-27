@@ -1,7 +1,7 @@
 # DEBRA ESKINAZI STOCKDALE
 San Francisco Bay Area | debra.eskinazi@gmail.com
 
-linkedin.com/in/debraeskinazi |  github.com/DEskinazi
+https://linkedin.com/in/debraeskinazi |  https://github.com/DEskinazi
 
 ### EXPERIENCE SUMMARY
 
