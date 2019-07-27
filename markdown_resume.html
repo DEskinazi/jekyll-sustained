@@ -6,7 +6,7 @@ title: Markdown Resume
 <div class="container">
   <div class="panel panel-default">
     <div class="panel-body">
-		{{ site.data.markdown_resume.full_text }}
+		{{ site.data.markdown_resume.full_text | markdownify }}
     </div>
   </div>
 </div>
