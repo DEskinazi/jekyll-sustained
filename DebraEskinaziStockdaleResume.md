@@ -18,7 +18,7 @@ Writer with more than 8 years of experience including authoring technical docume
 * Adept and learning new technologies
 
 ### TECHNICAL TOOLS
-Proficient with MS Office Suite, Mac OSX, Adobe Pro, G Suite, HTML, CSS, LMS, SABA, CA Service Desk, SharePoint, BLOX CMS, CrownPeak, WordPress, SnagIt, Trello, Slack, KanbanFlow, readme.io, Asana 
+Proficient with MS Office Suite, Mac OSX, Adobe Pro, G Suite, HTML, CSS, LMS, SABA, CA Service Desk, SharePoint, BLOX CMS, CrownPeak, WordPress, SnagIt, Trello, KanbanFlow, readme.io, Asana 
 
 Familiar with JavaScript, JSON, REST, Oxygen, DITA XML and single-sourced publishing, Markdown, Python, Atlassian’s Jira and Confluence as well as development tools including Git, Visual Studio, and Sublime Text. 
 
