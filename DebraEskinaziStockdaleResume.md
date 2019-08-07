@@ -33,7 +33,7 @@ Refined DITA-based documentation for Webex analytics purposes. Content geared to
 
 _**Writer/Editor**, New SV Media, Inc., a Metro Publishing company San Jose, CA, 03/16 – 03/19_
 
-Wrote and managed production process for two weekly magazines and front-page centerpieces for three weekly newspapers with a readership of more than 120,000 readers in print and online.
+Contributed to and managed production process for two weekly magazines and front-page centerpieces for three weekly newspapers with a readership of more than 120,000 readers in print and online.
 
 * Developed content strategy, maintained budget; managed staff, interns, and freelance contributors
 * Authored and published social media content for several brands
